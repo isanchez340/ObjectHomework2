@@ -1,4 +1,3 @@
-package sanchez.irving.object.suddoku;
 
 import java.io.IOException;
 import java.io.OutputStream;

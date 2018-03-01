@@ -1,4 +1,4 @@
-package sanchez.irving.object.suddoku;
+
 
 import java.io.IOException;
 import java.util.Random;
